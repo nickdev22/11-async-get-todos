@@ -1,0 +1,9 @@
+.done {
+  text-decoration: line-through;
+}
+li {
+  margin-top: 20px;
+}
+button {
+  margin-left: 5px;
+}
